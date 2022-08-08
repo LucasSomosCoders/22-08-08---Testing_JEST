@@ -1,0 +1,14 @@
+{
+  "name": "22-08-08---testing_jest",
+  "version": "1.0.0",
+  "description": "Mi primer test",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Pepe",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
